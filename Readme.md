@@ -12,4 +12,4 @@ It took almost 3 hour to complete  this project.
 **Note-**  Media query is used to make this webpage responsive.
 
 ![image](images/web%20design%20landing%20page.png)
-[Live-Link]()
+[Live-Link](https://web-design-landingpage.netlify.app/)
